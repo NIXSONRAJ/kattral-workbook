@@ -2,7 +2,7 @@
 
 > A comprehensive, print-ready 28-page interactive workbook built with pure HTML, CSS, and Vanilla JavaScript for 3rd-grade students.
 
-**[🚀 View the Live Demo Here](https://yourusername.github.io/kattral-english-workbook/)** *(<-- Replace with your GitHub Pages link)*
+**[🚀 View the Live Demo Here](https://nixsonraj.github.io/kattral-workbook/)**
 
 ---
 
@@ -54,4 +54,4 @@ Because this project uses pure frontend technologies, no build steps or servers 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/kattral-english-workbook.git](https://github.com/yourusername/kattral-english-workbook.git)
+   git clone [https://github.com/NIXSONRAJ/kattral-workbook.git](https://github.com/NIXSONRAJ/kattral-workbook.git)
