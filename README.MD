@@ -6,16 +6,6 @@
 
 ---
 
-## 📸 Sneak Peek
-
-*(Add 2 or 3 screenshots of your best pages here by replacing the placeholder links below)*
-
-![Cover Page](path/to/your/screenshot1.png)
-![Activity Page](path/to/your/screenshot2.png)
-![Certificate](path/to/your/screenshot3.png)
-
----
-
 ## 🌟 The Mission (Star of Success Initiative)
 
 This workbook was designed and developed for a 3-day educational program serving **250 students in Chennai, India**. 
